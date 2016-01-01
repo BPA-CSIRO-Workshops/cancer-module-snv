@@ -17,9 +17,7 @@ Bioinformatics Training Platform (BTP) Module: Single Nucleotide Variant Call an
     * Visualise variant calls using IGV
   * Time Required
     * 
-  * Compute Requirements
-    * 
-	
+
 License
 =======
 The contents of this repository are released under the Creative Commons
