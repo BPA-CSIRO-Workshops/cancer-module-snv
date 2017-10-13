@@ -1,4 +1,4 @@
-# cancer-module-snv
+# Single Nucleotide Variant Call and Annotation
 Bioinformatics Training Platform (BTP) Module: Single Nucleotide Variant Call and Annotation
 
   * Topic
